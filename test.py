@@ -5,6 +5,5 @@ b = 2
 c = a + b
 print(c)
 
-d = c * b + 3
+d = c * b + 3 + 2 ** 5
 print(d)
-
